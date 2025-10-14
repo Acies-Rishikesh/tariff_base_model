@@ -1,0 +1,239 @@
+hs_code,country,exporting_country,mfn_duty_rate_percent,fta_name,fta_duty_rate_percent,rules_of_origin_roo_requirement,fta_utilization_percent,last_tariff_change_date,tariff_change_count_past_5_yrs,avg_annual_duty_volatility_percent,embargo_flag,carbon_tariff_percent
+90121,Germany,Brazil,0.0,nan,,nan,0,2023-07-06,2,10.14,No,2.81
+90121,India,Brazil,15.0,nan,,nan,0,2023-07-12,1,10.07,No,3.93
+90121,Japan,Brazil,20.0,nan,,nan,0,2023-11-23,6,9.9,No,0.14
+90121,South Korea,Brazil,10.0,nan,,nan,0,2023-12-16,7,10.84,No,2.41
+90121,USA,Brazil,5.0,nan,,nan,0,2023-03-25,8,9.13,No,2.14
+90230,Germany,India,15.0,nan,,nan,0,2023-02-04,1,7.37,No,1.41
+90230,Japan,India,5.0,nan,,nan,0,2023-03-11,6,16.5,No,0.04
+90230,South Korea,India,15.0,nan,,nan,0,2023-07-11,3,14.66,No,0.6
+90230,USA,India,20.0,nan,,nan,0,2023-01-12,7,7.42,No,4.28
+100199,Germany,USA,0.0,nan,,nan,0,2023-04-18,8,6.83,No,1.58
+100199,India,USA,10.0,nan,,nan,0,2023-11-08,3,7.54,No,0.67
+100199,Japan,USA,5.0,nan,,nan,0,2023-04-24,4,9.33,No,3.35
+100199,South Korea,USA,7.5,nan,,nan,0,2023-03-02,8,14.83,No,4.07
+100199,USA,USA,15.0,nan,,nan,0,2023-11-08,6,12.77,No,0.94
+100630,Germany,India,7.5,nan,,nan,0,2023-06-13,5,18.41,No,4.64
+100630,Japan,India,7.5,nan,,nan,0,2023-06-26,5,17.59,No,4.59
+100630,South Korea,India,0.0,nan,,nan,0,2023-01-12,5,8.36,No,1.52
+100630,USA,India,10.0,nan,,nan,0,2023-01-19,7,14.17,No,4.06
+220710,Germany,USA,0.0,nan,,nan,0,2023-05-01,6,12.0,No,0.3
+220710,India,USA,10.0,nan,,nan,0,2023-04-19,4,9.36,No,0.26
+220710,Japan,USA,7.5,nan,,nan,0,2023-04-14,9,9.12,No,2.14
+220710,South Korea,USA,7.5,nan,,nan,0,2023-01-22,5,18.76,No,2.03
+220710,USA,USA,5.0,nan,,nan,0,2023-09-20,2,5.67,No,2.89
+252329,Germany,Switzerland,15.0,nan,,nan,0,2023-03-07,6,8.34,No,2.0
+252329,India,Switzerland,7.5,nan,,nan,0,2023-01-28,2,9.51,No,1.49
+252329,Japan,Switzerland,25.0,nan,,nan,0,2023-06-20,2,6.44,No,0.27
+252329,South Korea,Switzerland,7.5,nan,,nan,0,2023-04-27,7,13.66,No,2.2
+252329,USA,Switzerland,0.0,nan,,nan,0,2023-01-17,3,11.45,No,1.32
+280700,Germany,USA,15.0,India-Japan CEPA,10.24,40% local value addition,43,2023-08-21,1,17.11,No,1.95
+280700,India,USA,7.5,India-UAE CEPA,5.58,Full value chain,44,2023-04-20,2,15.74,No,3.92
+280700,Japan,USA,0.0,India-Korea CEPA,0.0,Product specific rules,48,2023-06-11,8,7.54,No,1.45
+280700,South Korea,USA,25.0,India-Japan CEPA,22.49,50% local value addition,85,2023-01-08,8,16.68,No,1.15
+280700,USA,USA,5.0,nan,,nan,0,2023-05-10,6,10.7,No,4.0
+280800,Germany,Norway,5.0,nan,,nan,0,2023-02-18,2,19.49,No,3.59
+280800,India,Norway,10.0,nan,,nan,0,2023-07-26,9,18.76,No,2.46
+280800,Japan,Norway,15.0,nan,,nan,0,2023-01-19,4,16.73,No,3.75
+280800,South Korea,Norway,0.0,nan,,nan,0,2023-12-18,7,10.44,No,2.71
+280800,USA,Norway,7.5,nan,,nan,0,2023-05-15,3,10.0,No,2.98
+281512,Germany,USA,5.0,nan,,nan,0,2023-08-14,5,5.88,No,1.68
+281512,India,USA,20.0,nan,,nan,0,2023-12-18,6,11.17,No,1.28
+281512,Japan,USA,5.0,nan,,nan,0,2023-11-11,3,8.04,No,3.69
+281512,South Korea,USA,15.0,nan,,nan,0,2023-01-20,5,5.32,No,3.05
+281512,USA,USA,10.0,nan,,nan,0,2023-04-27,8,12.42,No,2.48
+291521,Germany,Germany,15.0,nan,,nan,0,2023-01-23,1,18.33,No,2.54
+291521,India,Germany,10.0,India-EU FTA,5.16,40% local value addition,94,2023-10-26,5,14.12,No,4.49
+291521,Japan,Germany,15.0,India-UAE CEPA,10.44,50% local value addition,88,2023-08-28,9,9.7,No,2.13
+291521,South Korea,Germany,25.0,India-Japan CEPA,22.23,40% local value addition,91,2023-11-29,6,19.42,No,0.91
+291521,USA,Germany,0.0,India-Australia ECTA,0.0,Product specific rules,84,2023-10-01,5,8.57,No,2.35
+300490,Germany,India,7.5,nan,,nan,0,2023-07-06,9,11.4,No,1.73
+300490,Japan,India,15.0,nan,,nan,0,2023-12-09,4,5.69,Yes,2.66
+300490,South Korea,India,20.0,nan,,nan,0,2023-09-05,3,11.74,No,0.33
+300490,USA,India,7.5,nan,,nan,0,2023-04-19,6,16.62,No,4.33
+390110,Germany,India,5.0,nan,,nan,0,2023-03-26,2,9.3,No,4.08
+390110,Japan,India,20.0,nan,,nan,0,2023-03-22,8,16.71,No,4.53
+390110,South Korea,India,5.0,nan,,nan,0,2023-03-11,7,6.62,No,2.89
+390110,USA,India,15.0,nan,,nan,0,2023-11-23,4,18.41,No,0.06
+390210,Germany,Netherlands,15.0,India-EU FTA,13.31,50% local value addition,58,2023-01-12,7,19.56,No,0.41
+390210,India,Netherlands,25.0,India-EU FTA,16.3,Full value chain,91,2023-09-25,2,6.52,No,0.47
+390210,Japan,Netherlands,0.0,India-Korea CEPA,0.0,Full value chain,92,2023-06-01,3,14.04,No,3.39
+390210,South Korea,Netherlands,20.0,India-UAE CEPA,14.29,40% local value addition,90,2023-05-02,3,14.11,No,0.52
+390210,USA,Netherlands,25.0,India-Japan CEPA,17.11,40% local value addition,55,2023-04-30,8,13.85,No,1.88
+390330,Germany,South Korea,0.0,nan,,nan,0,2023-05-08,8,8.5,No,3.49
+390330,India,South Korea,20.0,nan,,nan,0,2023-12-07,5,14.78,No,1.9
+390330,Japan,South Korea,20.0,nan,,nan,0,2023-07-15,9,14.77,No,4.64
+390330,South Korea,South Korea,20.0,nan,,nan,0,2023-02-15,4,11.33,No,0.8
+390330,USA,South Korea,5.0,nan,,nan,0,2023-07-29,1,10.82,No,0.49
+391723,Germany,India,0.0,nan,,nan,0,2023-10-02,6,14.91,No,0.24
+391723,Japan,India,25.0,nan,,nan,0,2023-10-27,6,5.85,No,2.45
+391723,South Korea,India,25.0,nan,,nan,0,2023-05-05,9,19.3,No,3.14
+391723,USA,India,20.0,nan,,nan,0,2023-10-02,4,16.83,No,0.74
+392330,Germany,India,25.0,nan,,nan,0,2023-04-03,5,8.71,No,4.63
+392330,Japan,India,10.0,nan,,nan,0,2023-01-02,3,15.42,No,0.3
+392330,South Korea,India,20.0,nan,,nan,0,2023-07-09,8,13.59,No,1.65
+392330,USA,India,25.0,nan,,nan,0,2023-03-08,8,5.27,No,2.9
+401110,Germany,Thailand,5.0,nan,,nan,0,2023-10-15,2,15.15,No,2.83
+401110,India,Thailand,10.0,nan,,nan,0,2023-09-14,6,12.78,No,4.95
+401110,Japan,Thailand,25.0,nan,,nan,0,2023-02-26,7,5.22,No,2.11
+401110,South Korea,Thailand,15.0,nan,,nan,0,2023-02-05,6,9.23,No,2.82
+401110,USA,Thailand,20.0,nan,,nan,0,2023-06-25,4,9.28,No,3.49
+401511,Germany,Malaysia,10.0,India-ASEAN FTA,8.86,50% local value addition,41,2023-01-02,4,8.22,No,3.84
+401511,India,Malaysia,10.0,India-Japan CEPA,8.29,Product specific rules,58,2023-10-21,6,10.53,No,3.69
+401511,Japan,Malaysia,25.0,India-Japan CEPA,16.37,Product specific rules,55,2023-08-06,4,16.89,No,4.22
+401511,South Korea,Malaysia,0.0,India-Australia ECTA,0.0,40% local value addition,40,2023-11-21,1,5.48,No,1.42
+401511,USA,Malaysia,15.0,India-ASEAN FTA,12.05,40% local value addition,48,2023-03-10,9,5.12,No,4.72
+520811,Germany,India,20.0,nan,,nan,0,2023-07-31,9,7.41,No,2.9
+520811,Japan,India,5.0,nan,,nan,0,2023-09-28,3,16.96,No,2.2
+520811,South Korea,India,10.0,nan,,nan,0,2023-07-04,2,12.61,No,1.4
+520811,USA,India,0.0,nan,,nan,0,2023-01-27,8,9.89,No,1.46
+630790,Germany,USA,25.0,nan,,nan,0,2023-01-24,8,17.61,Yes,2.39
+630790,India,USA,7.5,nan,,nan,0,2023-11-19,6,12.32,No,2.18
+630790,Japan,USA,10.0,nan,,nan,0,2023-12-19,2,16.8,No,0.64
+630790,South Korea,USA,7.5,nan,,nan,0,2023-04-03,7,7.53,No,1.39
+630790,USA,USA,15.0,nan,,nan,0,2023-12-30,1,13.23,No,0.98
+700711,Germany,China,15.0,nan,,nan,0,2023-07-29,1,18.05,No,3.44
+700711,India,China,25.0,nan,,nan,0,2023-01-17,2,19.32,No,2.1
+700711,Japan,China,0.0,nan,,nan,0,2023-12-29,5,19.0,No,0.86
+700711,South Korea,China,5.0,nan,,nan,0,2023-06-22,2,17.85,No,3.38
+700711,USA,China,5.0,nan,,nan,0,2023-06-26,2,16.88,No,1.16
+720851,Germany,China,7.5,nan,,nan,0,2023-12-04,2,9.49,No,2.22
+720851,India,China,5.0,nan,,nan,0,2023-11-02,8,18.55,No,0.73
+720851,Japan,China,15.0,nan,,nan,0,2023-08-30,5,6.81,No,0.45
+720851,South Korea,China,25.0,nan,,nan,0,2023-06-21,1,10.03,No,4.03
+720851,USA,China,25.0,nan,,nan,0,2023-02-07,8,10.3,No,1.21
+721420,Germany,India,0.0,nan,,nan,0,2023-04-30,9,9.91,No,0.91
+721420,Japan,India,10.0,nan,,nan,0,2023-12-29,2,7.8,No,3.28
+721420,South Korea,India,7.5,nan,,nan,0,2023-01-24,9,6.98,No,0.61
+721420,USA,India,0.0,nan,,nan,0,2023-09-23,3,15.44,No,1.46
+721934,Germany,India,25.0,nan,,nan,0,2023-05-19,3,7.49,Yes,3.6
+721934,Japan,India,0.0,nan,,nan,0,2023-05-03,5,16.66,No,2.32
+721934,South Korea,India,0.0,nan,,nan,0,2023-02-23,8,8.33,No,0.53
+721934,USA,India,25.0,nan,,nan,0,2023-12-30,4,6.7,No,0.66
+740811,Germany,India,15.0,nan,,nan,0,2023-06-19,7,14.48,No,3.31
+740811,Japan,India,7.5,nan,,nan,0,2023-08-09,4,15.16,No,2.79
+740811,South Korea,India,5.0,nan,,nan,0,2023-07-17,5,17.21,No,0.86
+740811,USA,India,10.0,nan,,nan,0,2023-01-20,7,14.18,No,2.62
+760611,Germany,India,0.0,nan,,nan,0,2023-09-07,4,12.03,No,1.31
+760611,Japan,India,10.0,nan,,nan,0,2023-02-12,7,8.69,No,4.76
+760611,South Korea,India,5.0,nan,,nan,0,2023-02-13,7,13.04,No,4.07
+760611,USA,India,5.0,nan,,nan,0,2023-11-11,6,8.83,No,4.18
+847160,Germany,China,20.0,India-Korea CEPA,11.14,Product specific rules,63,2023-10-11,5,10.29,No,2.3
+847160,Germany,China,20.0,nan,,nan,0,2023-11-09,4,6.85,No,1.59
+847160,India,China,20.0,India-Japan CEPA,14.3,Product specific rules,71,2023-12-12,7,10.15,No,4.81
+847160,India,China,0.0,nan,,nan,0,2023-03-13,7,7.01,No,3.77
+847160,Japan,China,5.0,India-UAE CEPA,3.2,50% local value addition,66,2023-08-16,9,9.33,No,0.19
+847160,Japan,China,15.0,nan,,nan,0,2023-05-12,5,19.33,No,3.07
+847160,South Korea,China,25.0,India-Korea CEPA,21.02,Full value chain,91,2023-02-11,4,5.25,No,1.04
+847160,South Korea,China,15.0,nan,,nan,0,2023-01-15,3,13.56,No,0.93
+847160,USA,China,5.0,India-Japan CEPA,3.79,Full value chain,49,2023-04-14,2,7.13,No,0.83
+847160,USA,China,7.5,nan,,nan,0,2023-10-31,8,6.85,No,2.36
+847330,Germany,Malaysia,10.0,nan,,nan,0,2023-05-06,1,18.04,No,1.29
+847330,Germany,South Korea,10.0,nan,,nan,0,2023-10-23,4,14.79,No,3.32
+847330,India,Malaysia,10.0,nan,,nan,0,2023-10-10,1,16.56,No,0.19
+847330,India,South Korea,15.0,nan,,nan,0,2023-03-27,3,7.63,No,1.5
+847330,Japan,Malaysia,7.5,nan,,nan,0,2023-08-12,8,14.03,No,4.01
+847330,Japan,South Korea,10.0,nan,,nan,0,2023-01-02,8,6.54,No,4.68
+847330,South Korea,Malaysia,5.0,nan,,nan,0,2023-08-18,7,18.27,No,1.46
+847330,South Korea,South Korea,5.0,nan,,nan,0,2023-04-05,4,8.01,No,4.3
+847330,USA,Malaysia,25.0,nan,,nan,0,2023-12-08,2,18.22,No,0.56
+847330,USA,South Korea,15.0,nan,,nan,0,2023-10-12,1,17.81,No,2.99
+847950,Germany,Japan,25.0,nan,,nan,0,2023-04-07,7,10.87,No,4.67
+847950,India,Japan,7.5,nan,,nan,0,2023-12-16,2,13.89,No,4.98
+847950,Japan,Japan,25.0,nan,,nan,0,2023-08-15,6,9.42,No,1.08
+847950,South Korea,Japan,0.0,nan,,nan,0,2023-03-26,6,16.3,No,4.52
+847950,USA,Japan,7.5,nan,,nan,0,2023-07-30,1,18.93,No,4.61
+850152,Germany,Brazil,15.0,India-Australia ECTA,13.34,50% local value addition,66,2023-11-29,2,8.71,No,4.21
+850152,India,Brazil,7.5,India-EU FTA,6.11,40% local value addition,74,2023-07-08,4,19.17,No,4.62
+850152,Japan,Brazil,25.0,India-Japan CEPA,15.81,50% local value addition,81,2023-12-28,2,8.34,No,3.18
+850152,South Korea,Brazil,0.0,India-UAE CEPA,0.0,40% local value addition,87,2023-05-17,5,18.05,No,4.31
+850152,USA,Brazil,20.0,India-Australia ECTA,10.31,Product specific rules,50,2023-05-29,3,19.71,No,1.47
+850422,Germany,Germany,7.5,nan,,nan,0,2023-11-12,4,15.21,No,3.12
+850422,India,Germany,20.0,India-Korea CEPA,12.88,40% local value addition,52,2023-03-17,3,16.45,No,3.03
+850422,Japan,Germany,5.0,India-EU FTA,4.38,Product specific rules,47,2023-01-25,9,12.54,No,3.55
+850422,South Korea,Germany,5.0,India-Korea CEPA,3.95,Product specific rules,58,2023-07-28,5,6.68,No,3.45
+850422,USA,Germany,0.0,India-EU FTA,0.0,50% local value addition,72,2023-08-08,5,19.14,No,1.1
+850440,Germany,Germany,7.5,nan,,nan,0,2023-11-06,2,6.97,No,1.39
+850440,India,Germany,15.0,India-Australia ECTA,10.4,Full value chain,92,2023-01-31,7,13.23,No,1.11
+850440,Japan,Germany,15.0,India-EU FTA,10.25,50% local value addition,79,2023-05-27,8,15.39,No,2.05
+850440,South Korea,Germany,15.0,India-Korea CEPA,7.98,Product specific rules,54,2023-11-24,9,8.54,No,3.17
+850440,USA,Germany,25.0,India-UAE CEPA,16.69,50% local value addition,47,2023-05-30,4,16.23,No,2.04
+850760,Germany,China,7.5,nan,,nan,0,2023-03-02,3,8.65,No,1.5
+850760,India,China,0.0,nan,,nan,0,2023-02-05,5,19.51,Yes,2.25
+850760,Japan,China,15.0,nan,,nan,0,2023-10-08,9,18.22,No,3.67
+850760,South Korea,China,7.5,nan,,nan,0,2023-02-20,9,9.26,No,1.98
+850760,USA,China,25.0,nan,,nan,0,2023-06-05,6,14.73,No,4.3
+851130,Germany,China,5.0,nan,,nan,0,2023-02-25,5,17.66,No,4.29
+851130,India,China,25.0,nan,,nan,0,2023-12-21,2,5.94,No,3.3
+851130,Japan,China,0.0,nan,,nan,0,2023-09-30,9,19.95,No,3.28
+851130,South Korea,China,20.0,nan,,nan,0,2023-05-08,1,16.99,Yes,3.38
+851130,USA,China,10.0,nan,,nan,0,2023-06-01,6,9.36,No,1.39
+852990,Germany,Vietnam,7.5,nan,,nan,0,2023-02-22,4,5.86,No,4.27
+852990,India,Vietnam,5.0,nan,,nan,0,2023-03-17,9,7.83,No,2.1
+852990,Japan,Vietnam,15.0,nan,,nan,0,2023-10-11,4,15.94,No,2.73
+852990,South Korea,Vietnam,0.0,nan,,nan,0,2023-05-25,5,19.81,No,0.91
+852990,USA,Vietnam,5.0,nan,,nan,0,2023-08-07,5,10.02,No,2.04
+853620,Germany,China,20.0,India-ASEAN FTA,16.42,50% local value addition,60,2023-10-05,7,13.35,No,4.41
+853620,India,China,7.5,India-UAE CEPA,4.35,40% local value addition,73,2023-09-11,2,15.47,No,3.12
+853620,Japan,China,0.0,India-ASEAN FTA,0.0,50% local value addition,84,2023-03-14,1,7.24,No,3.7
+853620,South Korea,China,25.0,India-Australia ECTA,13.61,40% local value addition,48,2023-01-24,2,12.71,No,0.66
+853620,USA,China,7.5,India-EU FTA,4.78,Full value chain,79,2023-11-19,1,13.88,Yes,2.99
+853950,Germany,India,20.0,nan,,nan,0,2023-06-01,8,17.33,No,1.06
+853950,Japan,India,10.0,nan,,nan,0,2023-03-08,4,5.74,Yes,1.99
+853950,South Korea,India,15.0,nan,,nan,0,2023-08-27,1,16.99,No,3.64
+853950,USA,India,5.0,nan,,nan,0,2023-05-04,5,15.3,No,0.4
+854140,Germany,China,0.0,India-Korea CEPA,0.0,Product specific rules,49,2023-03-02,6,7.93,No,3.09
+854140,India,China,20.0,India-Australia ECTA,14.68,Product specific rules,87,2023-09-23,8,11.49,No,2.42
+854140,Japan,China,20.0,India-UAE CEPA,15.09,Full value chain,79,2023-10-20,8,8.87,No,2.82
+854140,South Korea,China,0.0,India-EU FTA,0.0,50% local value addition,86,2023-04-30,5,13.41,No,1.14
+854140,USA,China,10.0,India-UAE CEPA,6.84,40% local value addition,88,2023-12-11,1,17.33,No,4.51
+870830,Germany,Italy,15.0,nan,,nan,0,2023-03-10,7,5.04,No,1.96
+870830,India,Italy,15.0,nan,,nan,0,2023-06-16,5,16.44,No,0.68
+870830,Japan,Italy,7.5,nan,,nan,0,2023-03-24,9,11.57,No,1.04
+870830,South Korea,Italy,0.0,nan,,nan,0,2023-08-29,7,14.78,No,0.9
+870830,USA,Italy,15.0,nan,,nan,0,2023-02-03,1,9.96,No,0.83
+870892,Germany,USA,20.0,nan,,nan,0,2023-04-17,9,9.25,No,0.33
+870892,India,USA,25.0,nan,,nan,0,2023-09-29,4,15.88,No,1.91
+870892,Japan,USA,5.0,nan,,nan,0,2023-06-14,2,13.52,No,3.14
+870892,South Korea,USA,20.0,nan,,nan,0,2023-06-01,6,16.33,No,1.33
+870892,USA,USA,20.0,nan,,nan,0,2023-01-25,3,7.81,No,4.82
+901831,Germany,USA,7.5,nan,,nan,0,2023-06-04,6,18.7,No,3.66
+901831,India,USA,7.5,nan,,nan,0,2023-03-09,5,14.15,No,1.75
+901831,Japan,USA,7.5,nan,,nan,0,2023-03-01,6,18.48,No,2.2
+901831,South Korea,USA,7.5,nan,,nan,0,2023-12-15,2,14.47,No,2.67
+901831,USA,USA,15.0,nan,,nan,0,2023-07-11,4,18.01,No,4.11
+901890,Germany,China,5.0,India-Japan CEPA,3.13,Full value chain,76,2023-03-19,9,5.15,No,4.18
+901890,India,China,7.5,India-ASEAN FTA,4.61,Full value chain,80,2023-10-11,3,18.99,No,2.15
+901890,Japan,China,7.5,India-ASEAN FTA,4.46,Product specific rules,92,2023-03-11,6,18.08,No,3.91
+901890,South Korea,China,7.5,India-ASEAN FTA,6.27,Full value chain,74,2023-08-21,8,9.26,No,3.08
+901890,USA,China,7.5,India-UAE CEPA,6.05,Full value chain,66,2023-05-20,4,7.22,No,2.24
+902519,Germany,China,0.0,nan,,nan,0,2023-08-12,7,7.51,No,4.38
+902519,India,China,15.0,nan,,nan,0,2023-08-28,9,11.08,No,4.14
+902519,Japan,China,15.0,nan,,nan,0,2023-01-12,6,6.49,No,0.54
+902519,South Korea,China,25.0,nan,,nan,0,2023-04-26,1,18.92,No,1.99
+902519,USA,China,10.0,nan,,nan,0,2023-04-21,1,13.39,No,0.85
+940130,Germany,China,0.0,India-UAE CEPA,0.0,40% local value addition,73,2023-06-26,8,15.25,No,2.89
+940130,India,China,0.0,India-Japan CEPA,0.0,40% local value addition,44,2023-04-29,5,7.37,No,3.35
+940130,Japan,China,10.0,India-ASEAN FTA,8.83,Product specific rules,84,2023-05-04,4,8.53,No,3.12
+940130,South Korea,China,10.0,India-Japan CEPA,5.26,Full value chain,73,2023-03-16,3,10.67,No,3.02
+940130,USA,China,20.0,India-Australia ECTA,10.27,50% local value addition,41,2023-08-17,6,7.81,No,0.47
+940140,Germany,USA,0.0,nan,,nan,0,2023-12-17,8,10.64,No,1.38
+940140,India,USA,25.0,nan,,nan,0,2023-09-23,6,6.27,No,2.52
+940140,Japan,USA,20.0,nan,,nan,0,2023-01-21,7,9.05,No,3.54
+940140,South Korea,USA,10.0,nan,,nan,0,2023-09-11,4,10.7,No,1.71
+940140,USA,USA,15.0,nan,,nan,0,2023-10-26,8,13.51,No,2.17
+940320,Germany,China,5.0,India-ASEAN FTA,4.0,40% local value addition,70,2023-06-12,6,18.87,No,2.56
+940320,India,China,20.0,India-ASEAN FTA,13.23,40% local value addition,79,2023-10-18,1,6.93,Yes,3.91
+940320,Japan,China,25.0,India-Australia ECTA,13.68,Product specific rules,87,2023-05-10,5,8.94,No,1.42
+940320,South Korea,China,5.0,India-ASEAN FTA,3.64,40% local value addition,62,2023-02-10,3,17.38,No,4.86
+940320,USA,China,25.0,India-Japan CEPA,20.76,50% local value addition,90,2023-06-10,7,11.2,No,0.09
+940340,Germany,USA,5.0,nan,,nan,0,2023-11-26,2,6.36,Yes,1.91
+940340,India,USA,7.5,nan,,nan,0,2023-12-13,1,8.87,No,0.7
+940340,Japan,USA,5.0,nan,,nan,0,2023-03-28,5,15.55,No,2.14
+940340,South Korea,USA,20.0,nan,,nan,0,2023-11-16,8,9.74,No,0.73
+940340,USA,USA,5.0,nan,,nan,0,2023-02-14,2,13.3,No,4.58
+940360,Germany,Vietnam,5.0,nan,,nan,0,2023-08-18,6,11.54,No,1.47
+940360,India,Vietnam,15.0,nan,,nan,0,2023-05-25,1,16.1,No,2.33
+940360,Japan,Vietnam,7.5,nan,,nan,0,2023-09-30,5,19.04,No,4.66
+940360,South Korea,Vietnam,7.5,nan,,nan,0,2023-12-27,2,11.06,No,1.62
+940360,USA,Vietnam,5.0,nan,,nan,0,2023-05-02,2,9.82,No,3.48

@@ -1,0 +1,51 @@
+supplier_name,country,no._of_skus_supplied,percent_of_total_volume,alternate_suppliers_available,region_risk_rating,sanction_risk,freight_route,port_risk_score
+3M,USA,1,1.73,0,0.2,No,USA -> India,40
+ABB,Switzerland,1,0.02,1,0.15,No,Switzerland -> India,65
+Amcor,Australia,1,17.32,3,0.28,No,Australia -> India,32
+Ansell,Australia,1,1.73,2,0.28,No,Australia -> India,63
+ArcelorMittal,Luxembourg,1,0.01,2,0.12,No,Luxembourg -> India,70
+Archer Daniels Midland,USA,1,3.46,1,0.2,No,USA -> India,81
+Ashley Furniture,USA,1,0.0,1,0.2,No,USA -> India,57
+Astral Pipes,India,1,0.07,2,0.5,No,India -> India,22
+BASF,Germany,1,0.35,2,0.3,No,Germany -> India,46
+Becton Dickinson,USA,1,8.66,2,0.2,No,USA -> India,48
+Bosch,Germany,1,0.05,1,0.3,No,Germany -> India,53
+Braun,Germany,1,0.03,3,0.3,No,Germany -> India,30
+Brembo,Italy,1,0.04,0,0.45,No,Italy -> India,55
+CATL,China,1,0.03,0,0.75,No,China -> India,65
+Dow Chemical,USA,1,1.73,0,0.2,No,USA -> India,18
+FANUC,Japan,1,0.0,3,0.35,No,Japan -> India,45
+Herman Miller,USA,1,0.01,3,0.2,No,USA -> India,80
+Hindalco,India,1,0.35,2,0.5,No,India -> India,11
+Hindustan Copper,India,1,0.17,0,0.5,No,India -> India,10
+IKEA,Sweden,1,0.02,3,0.1,No,Sweden -> India,43
+Intel,USA,1,0.03,3,0.2,No,USA -> India,68
+Jindal Stainless,India,1,0.0,2,0.5,No,India -> India,89
+KRBL Limited,India,1,1.73,0,0.5,No,India -> India,25
+KraftMaid,USA,1,0.0,3,0.2,No,USA -> India,74
+LG Chem,South Korea,1,0.52,2,0.4,No,South Korea -> India,52
+LG Display,South Korea,1,0.07,3,0.4,No,South Korea -> India,58
+LafargeHolcim,Switzerland,1,0.69,0,0.15,No,Switzerland -> India,29
+Logitech,Switzerland,1,0.05,2,0.15,No,Switzerland -> India,49
+LyondellBasell,Netherlands,1,0.87,3,0.25,No,Netherlands -> India,41
+Michelin,France,1,0.03,0,0.33,No,France -> India,86
+Monsanto,USA,1,17.32,0,0.2,No,USA -> India,80
+Omron,Japan,1,0.02,0,0.35,No,Japan -> India,74
+Philips,Netherlands,1,0.69,0,0.25,No,Netherlands -> India,88
+Razer,USA,1,0.07,3,0.2,No,USA -> India,35
+Reliance Industries,India,1,0.87,3,0.5,No,India -> India,30
+SMA Solar,Germany,1,0.0,2,0.3,No,Germany -> India,15
+Saint-Gobain,France,1,0.03,2,0.33,No,France -> India,28
+Samsung,South Korea,1,0.09,1,0.4,No,South Korea -> India,55
+Siemens,Germany,1,0.0,3,0.3,No,Germany -> India,54
+Starbucks,USA,1,0.35,0,0.2,No,USA -> India,76
+Sun Pharma,India,1,34.64,1,0.5,No,India -> India,68
+Tata Steel,India,1,3.46,3,0.5,No,India -> India,50
+Tata Tea,India,1,0.17,3,0.5,No,India -> India,85
+Tenneco,USA,1,0.01,3,0.2,No,USA -> India,73
+The Mosaic Company,USA,1,1.73,3,0.2,No,USA -> India,37
+Trina Solar,China,1,0.03,1,0.75,No,China -> India,70
+Vardhman,India,1,0.35,2,0.5,No,India -> India,30
+WEG,Brazil,1,0.01,0,0.6,No,Brazil -> India,70
+Wayfair,USA,1,0.01,2,0.2,No,USA -> India,63
+Yara,Norway,1,0.35,1,0.18,No,Norway -> India,14
