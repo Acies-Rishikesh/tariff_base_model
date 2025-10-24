@@ -1,0 +1,234 @@
+hs_code,importing_country,sku,product_description,product_category,supplier_name,supplier_country,country_of_origin_coo,incoterm,base_price_usd,freight_usd,insurance_percent,fx_rate,volume_units,bcd_percent,igst_percent,additional_duty_percent,fta_eligibility,fta_reduction_percent,lead_time_days,target_margin_percent,annual_revenue_usd,annual_duty_paid_usd
+90121,Germany,SKU-AGRI-047-Ger-Bra-0,Coffee Beans,Agriculture,Embraer,Brazil,Brazil,CIF,7.44,0.53,0.8,83.2,10000,0.0,5,0,No,0.0,20,25,80000,8000
+90121,India,SKU-AGRI-047-Ind-Bra-1,Coffee Beans,Agriculture,Embraer,Brazil,Brazil,CIF,6.64,0.58,0.8,83.2,10000,15.0,5,0,No,0.0,20,25,80000,8000
+90121,Japan,SKU-AGRI-047-Jap-Bra-2,Coffee Beans,Agriculture,Embraer,Brazil,Brazil,CIF,6.64,0.58,0.8,83.2,10000,20.0,5,0,No,0.0,20,25,80000,8000
+90121,South Korea,SKU-AGRI-047-Sou-Bra-3,Coffee Beans,Agriculture,Embraer,Brazil,Brazil,CIF,6.52,0.56,0.8,83.2,10000,10.0,5,0,No,0.0,20,25,80000,8000
+90121,USA,SKU-AGRI-047-USA-Bra-4,Coffee Beans,Agriculture,Embraer,Brazil,Brazil,CIF,9.68,0.51,0.8,83.2,10000,5.0,5,0,No,0.0,20,25,80000,8000
+90230,Germany,SKU-AGRI-032-Ger-Ind-5,Tea Leaves,Agriculture,Tata,India,India,CPT,5.32,0.21,0.5,83.2,5000,15.0,5,0,No,0.0,10,20,100000,0
+90230,Japan,SKU-AGRI-032-Jap-Ind-6,Tea Leaves,Agriculture,Tata,India,India,CPT,5.75,0.24,0.5,83.2,5000,5.0,5,0,No,0.0,10,20,100000,0
+90230,South Korea,SKU-AGRI-032-Sou-Ind-7,Tea Leaves,Agriculture,Tata,India,India,CPT,4.42,0.25,0.5,83.2,5000,15.0,5,0,No,0.0,10,20,100000,0
+90230,USA,SKU-AGRI-032-USA-Ind-8,Tea Leaves,Agriculture,Tata,India,India,CPT,5.32,0.21,0.5,83.2,5000,20.0,5,0,No,0.0,10,20,100000,0
+100199,Germany,SKU-AGRI-010-Ger-USA-9,Wheat Seeds,Agriculture,3M,USA,USA,FOB,0.16,0.06,0.3,83.2,500000,0.0,5,0,No,0.0,25,18,100000,10000
+100199,India,SKU-AGRI-010-Ind-USA-10,Wheat Seeds,Agriculture,3M,USA,USA,FOB,0.15,0.05,0.3,83.2,500000,10.0,5,0,No,0.0,25,18,100000,10000
+100199,Japan,SKU-AGRI-010-Jap-USA-11,Wheat Seeds,Agriculture,3M,USA,USA,FOB,0.17,0.06,0.3,83.2,500000,5.0,5,0,No,0.0,25,18,100000,10000
+100199,South Korea,SKU-AGRI-010-Sou-USA-12,Wheat Seeds,Agriculture,3M,USA,USA,FOB,0.17,0.06,0.3,83.2,500000,7.5,5,0,No,0.0,25,18,100000,10000
+100199,USA,SKU-AGRI-010-USA-USA-13,Wheat Seeds,Agriculture,3M,USA,USA,FOB,0.15,0.05,0.3,83.2,500000,15.0,5,0,No,0.0,25,18,100000,10000
+100630,Germany,SKU-AGRI-021-Ger-Ind-14,Basmati Rice,Agriculture,Tata,India,India,CPT,1.23,0.11,0.7,83.2,50000,7.5,5,0,No,0.0,7,20,75000,0
+100630,Japan,SKU-AGRI-021-Jap-Ind-15,Basmati Rice,Agriculture,Tata,India,India,CPT,1.78,0.13,0.7,83.2,50000,7.5,5,0,No,0.0,7,20,75000,0
+100630,South Korea,SKU-AGRI-021-Sou-Ind-16,Basmati Rice,Agriculture,Tata,India,India,CPT,1.37,0.1,0.7,83.2,50000,0.0,5,0,No,0.0,7,20,75000,0
+100630,USA,SKU-AGRI-021-USA-Ind-17,Basmati Rice,Agriculture,Tata,India,India,CPT,1.54,0.12,0.7,83.2,50000,10.0,5,0,No,0.0,7,20,75000,0
+220710,Germany,SKU-CHEM-023-Ger-USA-18,Ethanol,Chemicals,3M,USA,USA,CPT,0.65,0.08,1.0,83.2,100000,0.0,18,5,No,0.0,28,10,120000,12000
+220710,India,SKU-CHEM-023-Ind-USA-19,Ethanol,Chemicals,3M,USA,USA,CPT,0.61,0.1,1.0,83.2,100000,10.0,18,5,No,0.0,28,10,120000,12000
+220710,Japan,SKU-CHEM-023-Jap-USA-20,Ethanol,Chemicals,3M,USA,USA,CPT,0.72,0.1,1.0,83.2,100000,7.5,18,5,No,0.0,28,10,120000,12000
+220710,South Korea,SKU-CHEM-023-Sou-USA-21,Ethanol,Chemicals,3M,USA,USA,CPT,0.54,0.08,1.0,83.2,100000,7.5,18,5,No,0.0,28,10,120000,12000
+220710,USA,SKU-CHEM-023-USA-USA-22,Ethanol,Chemicals,3M,USA,USA,CPT,0.75,0.08,1.0,83.2,100000,5.0,18,5,No,0.0,28,10,120000,12000
+252329,Germany,SKU-CON-007-Ger-Swi-23,Cement (50kg bag),Construction,Nestle,Switzerland,Switzerland,FOB,3.88,0.53,0.7,83.2,20000,15.0,18,15,No,0.0,20,22,500000,100000
+252329,India,SKU-CON-007-Ind-Swi-24,Cement (50kg bag),Construction,Nestle,Switzerland,Switzerland,FOB,4.35,0.62,0.7,83.2,20000,7.5,18,15,No,0.0,20,22,500000,100000
+252329,Japan,SKU-CON-007-Jap-Swi-25,Cement (50kg bag),Construction,Nestle,Switzerland,Switzerland,FOB,3.77,0.51,0.7,83.2,20000,25.0,18,15,No,0.0,20,22,500000,100000
+252329,South Korea,SKU-CON-007-Sou-Swi-26,Cement (50kg bag),Construction,Nestle,Switzerland,Switzerland,FOB,5.55,0.56,0.7,83.2,20000,7.5,18,15,No,0.0,20,22,500000,100000
+252329,USA,SKU-CON-007-USA-Swi-27,Cement (50kg bag),Construction,Nestle,Switzerland,Switzerland,FOB,5.58,0.56,0.7,83.2,20000,0.0,18,15,No,0.0,20,22,500000,100000
+280700,Germany,SKU-CHEM-016-Ger-USA-28,Sulphuric Acid,Chemicals,3M,USA,USA,CPT,0.72,0.13,0.8,83.2,50000,15.0,18,5,Yes,10.24,25,12,100000,10000
+280700,India,SKU-CHEM-016-Ind-USA-29,Sulphuric Acid,Chemicals,3M,USA,USA,CPT,0.94,0.12,0.8,83.2,50000,7.5,18,5,Yes,5.58,25,12,100000,10000
+280700,Japan,SKU-CHEM-016-Jap-USA-30,Sulphuric Acid,Chemicals,3M,USA,USA,CPT,0.66,0.11,0.8,83.2,50000,0.0,18,5,No,0.0,25,12,100000,10000
+280700,South Korea,SKU-CHEM-016-Sou-USA-31,Sulphuric Acid,Chemicals,3M,USA,USA,CPT,0.68,0.12,0.8,83.2,50000,25.0,18,5,Yes,22.49,25,12,100000,10000
+280700,USA,SKU-CHEM-016-USA-USA-32,Sulphuric Acid,Chemicals,3M,USA,USA,CPT,0.66,0.12,0.8,83.2,50000,5.0,18,5,No,0.0,25,12,100000,10000
+280800,Germany,SKU-CHEM-048-Ger-Nor-33,Nitric Acid,Chemicals,Yara,Norway,Norway,CPT,2.23,0.16,1.2,83.2,10000,5.0,18,5,No,0.0,30,12,100000,10000
+280800,India,SKU-CHEM-048-Ind-Nor-34,Nitric Acid,Chemicals,Yara,Norway,Norway,CPT,1.47,0.17,1.2,83.2,10000,10.0,18,5,No,0.0,30,12,100000,10000
+280800,Japan,SKU-CHEM-048-Jap-Nor-35,Nitric Acid,Chemicals,Yara,Norway,Norway,CPT,1.87,0.19,1.2,83.2,10000,15.0,18,5,No,0.0,30,12,100000,10000
+280800,South Korea,SKU-CHEM-048-Sou-Nor-36,Nitric Acid,Chemicals,Yara,Norway,Norway,CPT,1.35,0.15,1.2,83.2,10000,0.0,18,5,No,0.0,30,12,100000,10000
+280800,USA,SKU-CHEM-048-USA-Nor-37,Nitric Acid,Chemicals,Yara,Norway,Norway,CPT,1.77,0.18,1.2,83.2,10000,7.5,18,5,No,0.0,30,12,100000,10000
+281512,Germany,SKU-CHEM-038-Ger-USA-38,Sodium Hydroxide,Chemicals,3M,USA,USA,CPT,0.42,0.06,1.1,83.2,50000,5.0,18,5,No,0.0,25,15,60000,6000
+281512,India,SKU-CHEM-038-Ind-USA-39,Sodium Hydroxide,Chemicals,3M,USA,USA,CPT,0.59,0.06,1.1,83.2,50000,20.0,18,5,No,0.0,25,15,60000,6000
+281512,Japan,SKU-CHEM-038-Jap-USA-40,Sodium Hydroxide,Chemicals,3M,USA,USA,CPT,0.45,0.05,1.1,83.2,50000,5.0,18,5,No,0.0,25,15,60000,6000
+281512,South Korea,SKU-CHEM-038-Sou-USA-41,Sodium Hydroxide,Chemicals,3M,USA,USA,CPT,0.39,0.05,1.1,83.2,50000,15.0,18,5,No,0.0,25,15,60000,6000
+281512,USA,SKU-CHEM-038-USA-USA-42,Sodium Hydroxide,Chemicals,3M,USA,USA,CPT,0.4,0.06,1.1,83.2,50000,10.0,18,5,No,0.0,25,15,60000,6000
+291521,Germany,SKU-CHEM-006-Ger-Ger-43,Acetic Acid,Chemicals,Bosch,Germany,Germany,CPT,2.91,0.25,1.5,83.2,10000,15.0,18,5,No,0.0,30,15,300000,30000
+291521,India,SKU-CHEM-006-Ind-Ger-44,Acetic Acid,Chemicals,Bosch,Germany,Germany,CPT,2.52,0.24,1.5,83.2,10000,10.0,18,5,Yes,5.16,30,15,300000,30000
+291521,Japan,SKU-CHEM-006-Jap-Ger-45,Acetic Acid,Chemicals,Bosch,Germany,Germany,CPT,2.69,0.21,1.5,83.2,10000,15.0,18,5,Yes,10.44,30,15,300000,30000
+291521,South Korea,SKU-CHEM-006-Sou-Ger-46,Acetic Acid,Chemicals,Bosch,Germany,Germany,CPT,1.91,0.21,1.5,83.2,10000,25.0,18,5,Yes,22.23,30,15,300000,30000
+291521,USA,SKU-CHEM-006-USA-Ger-47,Acetic Acid,Chemicals,Bosch,Germany,Germany,CPT,2.56,0.25,1.5,83.2,10000,0.0,18,5,No,0.0,30,15,300000,30000
+300490,Germany,SKU-PHARM-011-Ger-Ind-48,Paracetamol Tablet,Pharmaceuticals,Tata,India,India,CPT,0.04,0.01,0.1,83.2,1000000,7.5,12,0,No,0.0,10,50,80000,0
+300490,Japan,SKU-PHARM-011-Jap-Ind-49,Paracetamol Tablet,Pharmaceuticals,Tata,India,India,CPT,0.06,0.01,0.1,83.2,1000000,15.0,12,0,No,0.0,10,50,80000,0
+300490,South Korea,SKU-PHARM-011-Sou-Ind-50,Paracetamol Tablet,Pharmaceuticals,Tata,India,India,CPT,0.04,0.01,0.1,83.2,1000000,20.0,12,0,No,0.0,10,50,80000,0
+300490,USA,SKU-PHARM-011-USA-Ind-51,Paracetamol Tablet,Pharmaceuticals,Tata,India,India,CPT,0.04,0.01,0.1,83.2,1000000,7.5,12,0,No,0.0,10,50,80000,0
+390110,Germany,SKU-PLAS-049-Ger-Ind-52,High-Density Polyethylene,Plastics,Tata,India,India,EXW,1.21,0.09,0.9,83.2,25000,5.0,18,0,No,0.0,10,15,150000,0
+390110,Japan,SKU-PLAS-049-Jap-Ind-53,High-Density Polyethylene,Plastics,Tata,India,India,EXW,0.98,0.1,0.9,83.2,25000,20.0,18,0,No,0.0,10,15,150000,0
+390110,South Korea,SKU-PLAS-049-Sou-Ind-54,High-Density Polyethylene,Plastics,Tata,India,India,EXW,0.89,0.09,0.9,83.2,25000,5.0,18,0,No,0.0,10,15,150000,0
+390110,USA,SKU-PLAS-049-USA-Ind-55,High-Density Polyethylene,Plastics,Tata,India,India,EXW,0.87,0.09,0.9,83.2,25000,15.0,18,0,No,0.0,10,15,150000,0
+390210,Germany,SKU-PLAS-013-Ger-Net-56,Polypropylene Granules,Plastics,Philips,Netherlands,Netherlands,DAP,1.1,0.1,1.0,83.2,25000,15.0,18,5,Yes,13.31,20,15,250000,25000
+390210,India,SKU-PLAS-013-Ind-Net-57,Polypropylene Granules,Plastics,Philips,Netherlands,Netherlands,DAP,0.91,0.1,1.0,83.2,25000,25.0,18,5,Yes,16.3,20,15,250000,25000
+390210,Japan,SKU-PLAS-013-Jap-Net-58,Polypropylene Granules,Plastics,Philips,Netherlands,Netherlands,DAP,1.41,0.12,1.0,83.2,25000,0.0,18,5,No,0.0,20,15,250000,25000
+390210,South Korea,SKU-PLAS-013-Sou-Net-59,Polypropylene Granules,Plastics,Philips,Netherlands,Netherlands,DAP,1.09,0.1,1.0,83.2,25000,20.0,18,5,Yes,14.29,20,15,250000,25000
+390210,USA,SKU-PLAS-013-USA-Net-60,Polypropylene Granules,Plastics,Philips,Netherlands,Netherlands,DAP,1.0,0.12,1.0,83.2,25000,25.0,18,5,Yes,17.11,20,15,250000,25000
+390330,Germany,SKU-PLAS-040-Ger-Sou-61,ABS Plastic Pellets,Plastics,Samsung,South Korea,South Korea,FOB,1.18,0.13,1.0,83.2,15000,0.0,18,5,No,0.0,20,18,200000,20000
+390330,India,SKU-PLAS-040-Ind-Sou-62,ABS Plastic Pellets,Plastics,Samsung,South Korea,South Korea,FOB,1.54,0.15,1.0,83.2,15000,20.0,18,5,No,0.0,20,18,200000,20000
+390330,Japan,SKU-PLAS-040-Jap-Sou-63,ABS Plastic Pellets,Plastics,Samsung,South Korea,South Korea,FOB,1.48,0.14,1.0,83.2,15000,20.0,18,5,No,0.0,20,18,200000,20000
+390330,South Korea,SKU-PLAS-040-Sou-Sou-64,ABS Plastic Pellets,Plastics,Samsung,South Korea,South Korea,FOB,1.19,0.13,1.0,83.2,15000,20.0,18,5,No,0.0,20,18,200000,20000
+390330,USA,SKU-PLAS-040-USA-Sou-65,ABS Plastic Pellets,Plastics,Samsung,South Korea,South Korea,FOB,1.54,0.15,1.0,83.2,15000,5.0,18,5,No,0.0,20,18,200000,20000
+391723,Germany,SKU-PLAS-031-Ger-Ind-66,PVC Pipes (100mm),Construction,Tata,India,India,EXW,8.8,1.01,0.9,83.2,2000,0.0,18,0,No,0.0,5,18,50000,0
+391723,Japan,SKU-PLAS-031-Jap-Ind-67,PVC Pipes (100mm),Construction,Tata,India,India,EXW,7.85,0.86,0.9,83.2,2000,25.0,18,0,No,0.0,5,18,50000,0
+391723,South Korea,SKU-PLAS-031-Sou-Ind-68,PVC Pipes (100mm),Construction,Tata,India,India,EXW,12.15,0.82,0.9,83.2,2000,25.0,18,0,No,0.0,5,18,50000,0
+391723,USA,SKU-PLAS-031-USA-Ind-69,PVC Pipes (100mm),Construction,Tata,India,India,EXW,9.6,0.9,0.9,83.2,2000,20.0,18,0,No,0.0,5,18,50000,0
+392330,Germany,SKU-PLAS-024-Ger-Ind-70,PET Plastic Bottles,Packaging,Tata,India,India,EXW,0.08,0.01,0.3,83.2,500000,25.0,18,0,No,0.0,12,20,50000,5000
+392330,Japan,SKU-PLAS-024-Jap-Ind-71,PET Plastic Bottles,Packaging,Tata,India,India,EXW,0.12,0.01,0.3,83.2,500000,10.0,18,0,No,0.0,12,20,50000,5000
+392330,South Korea,SKU-PLAS-024-Sou-Ind-72,PET Plastic Bottles,Packaging,Tata,India,India,EXW,0.09,0.01,0.3,83.2,500000,20.0,18,0,No,0.0,12,20,50000,5000
+392330,USA,SKU-PLAS-024-USA-Ind-73,PET Plastic Bottles,Packaging,Tata,India,India,EXW,0.09,0.01,0.3,83.2,500000,25.0,18,0,No,0.0,12,20,50000,5000
+401110,Germany,SKU-AUTO-020-Ger-Tha-74,Tire (Sedan),Automotive,CP Group,Thailand,Thailand,CIF,81.2,4.92,1.5,83.2,800,5.0,18,0,No,0.0,22,25,200000,20000
+401110,India,SKU-AUTO-020-Ind-Tha-75,Tire (Sedan),Automotive,CP Group,Thailand,Thailand,CIF,98.0,4.2,1.5,83.2,800,10.0,18,0,No,0.0,22,25,200000,20000
+401110,Japan,SKU-AUTO-020-Jap-Tha-76,Tire (Sedan),Automotive,CP Group,Thailand,Thailand,CIF,86.8,4.28,1.5,83.2,800,25.0,18,0,No,0.0,22,25,200000,20000
+401110,South Korea,SKU-AUTO-020-Sou-Tha-77,Tire (Sedan),Automotive,CP Group,Thailand,Thailand,CIF,96.0,4.0,1.5,83.2,800,15.0,18,0,No,0.0,22,25,200000,20000
+401110,USA,SKU-AUTO-020-USA-Tha-78,Tire (Sedan),Automotive,CP Group,Thailand,Thailand,CIF,62.8,4.28,1.5,83.2,800,20.0,18,0,No,0.0,22,25,200000,20000
+401511,Germany,SKU-MED-036-Ger-Mal-79,Surgical Gloves,Medical Supplies,Petronas,Malaysia,Malaysia,CIF,0.17,0.02,0.3,83.2,50000,10.0,18,0,Yes,8.86,12,35,20000,2000
+401511,India,SKU-MED-036-Ind-Mal-80,Surgical Gloves,Medical Supplies,Petronas,Malaysia,Malaysia,CIF,0.16,0.02,0.3,83.2,50000,10.0,18,0,Yes,8.29,12,35,20000,2000
+401511,Japan,SKU-MED-036-Jap-Mal-81,Surgical Gloves,Medical Supplies,Petronas,Malaysia,Malaysia,CIF,0.19,0.02,0.3,83.2,50000,25.0,18,0,Yes,16.37,12,35,20000,2000
+401511,South Korea,SKU-MED-036-Sou-Mal-82,Surgical Gloves,Medical Supplies,Petronas,Malaysia,Malaysia,CIF,0.24,0.02,0.3,83.2,50000,0.0,18,0,No,0.0,12,35,20000,2000
+401511,USA,SKU-MED-036-USA-Mal-83,Surgical Gloves,Medical Supplies,Petronas,Malaysia,Malaysia,CIF,0.21,0.03,0.3,83.2,50000,15.0,18,0,Yes,12.05,12,35,20000,2000
+520811,Germany,SKU-TEX-009-Ger-Ind-84,Cotton Fabric,Textiles,Tata,India,India,EXW,8.75,1.0,0.6,83.2,10000,20.0,12,0,No,0.0,5,35,150000,0
+520811,Japan,SKU-TEX-009-Jap-Ind-85,Cotton Fabric,Textiles,Tata,India,India,EXW,12.05,0.81,0.6,83.2,10000,5.0,12,0,No,0.0,5,35,150000,0
+520811,South Korea,SKU-TEX-009-Sou-Ind-86,Cotton Fabric,Textiles,Tata,India,India,EXW,8.25,0.92,0.6,83.2,10000,10.0,12,0,No,0.0,5,35,150000,0
+520811,USA,SKU-TEX-009-USA-Ind-87,Cotton Fabric,Textiles,Tata,India,India,EXW,8.9,1.02,0.6,83.2,10000,0.0,12,0,No,0.0,5,35,150000,0
+630790,Germany,SKU-MED-005-Ger-USA-88,Surgical Mask (N95),Medical Supplies,3M,USA,USA,EXW,0.49,0.12,0.5,83.2,50000,25.0,18,0,No,0.0,7,40,25000,2500
+630790,India,SKU-MED-005-Ind-USA-89,Surgical Mask (N95),Medical Supplies,3M,USA,USA,EXW,0.62,0.11,0.5,83.2,50000,7.5,18,0,No,0.0,7,40,25000,2500
+630790,Japan,SKU-MED-005-Jap-USA-90,Surgical Mask (N95),Medical Supplies,3M,USA,USA,EXW,0.38,0.1,0.5,83.2,50000,10.0,18,0,No,0.0,7,40,25000,2500
+630790,South Korea,SKU-MED-005-Sou-USA-91,Surgical Mask (N95),Medical Supplies,3M,USA,USA,EXW,0.48,0.11,0.5,83.2,50000,7.5,18,0,No,0.0,7,40,25000,2500
+630790,USA,SKU-MED-005-USA-USA-92,Surgical Mask (N95),Medical Supplies,3M,USA,USA,EXW,0.49,0.12,0.5,83.2,50000,15.0,18,0,No,0.0,7,40,25000,2500
+700711,Germany,SKU-AUTO-029-Ger-Chi-93,Windshield Glass,Automotive,CATL,China,China,CIF,46.75,3.21,1.3,83.2,1000,15.0,18,0,No,0.0,25,22,120000,12000
+700711,India,SKU-AUTO-029-Ind-Chi-94,Windshield Glass,Automotive,CATL,China,China,CIF,44.75,3.87,1.3,83.2,1000,25.0,18,0,No,0.0,25,22,120000,12000
+700711,Japan,SKU-AUTO-029-Jap-Chi-95,Windshield Glass,Automotive,CATL,China,China,CIF,53.0,3.06,1.3,83.2,1000,0.0,18,0,No,0.0,25,22,120000,12000
+700711,South Korea,SKU-AUTO-029-Sou-Chi-96,Windshield Glass,Automotive,CATL,China,China,CIF,45.25,3.03,1.3,83.2,1000,5.0,18,0,No,0.0,25,22,120000,12000
+700711,USA,SKU-AUTO-029-USA-Chi-97,Windshield Glass,Automotive,CATL,China,China,CIF,50.25,3.63,1.3,83.2,1000,5.0,18,0,No,0.0,25,22,120000,12000
+720851,Germany,SKU-MET-015-Ger-Chi-98,Steel Plate (10mm),Metals,CATL,China,China,CIF,412.5,23.0,1.2,83.2,300,7.5,18,0,No,0.0,30,18,300000,22500
+720851,India,SKU-MET-015-Ind-Chi-99,Steel Plate (10mm),Metals,CATL,China,China,CIF,437.5,25.0,1.2,83.2,300,5.0,18,0,No,0.0,30,18,300000,22500
+720851,Japan,SKU-MET-015-Jap-Chi-100,Steel Plate (10mm),Metals,CATL,China,China,CIF,407.5,22.6,1.2,83.2,300,15.0,18,0,No,0.0,30,18,300000,22500
+720851,South Korea,SKU-MET-015-Sou-Chi-101,Steel Plate (10mm),Metals,CATL,China,China,CIF,455.0,20.4,1.2,83.2,300,25.0,18,0,No,0.0,30,18,300000,22500
+720851,USA,SKU-MET-015-USA-Chi-102,Steel Plate (10mm),Metals,CATL,China,China,CIF,550.0,22.0,1.2,83.2,300,25.0,18,0,No,0.0,30,18,300000,22500
+721420,Germany,SKU-CON-018-Ger-Ind-103,Rebar (12mm),Construction,Tata,India,India,EXW,0.9,0.06,0.6,83.2,100000,0.0,18,0,No,0.0,10,20,150000,0
+721420,Japan,SKU-CON-018-Jap-Ind-104,Rebar (12mm),Construction,Tata,India,India,EXW,0.88,0.06,0.6,83.2,100000,10.0,18,0,No,0.0,10,20,150000,0
+721420,South Korea,SKU-CON-018-Sou-Ind-105,Rebar (12mm),Construction,Tata,India,India,EXW,0.66,0.06,0.6,83.2,100000,7.5,18,0,No,0.0,10,20,150000,0
+721420,USA,SKU-CON-018-USA-Ind-106,Rebar (12mm),Construction,Tata,India,India,EXW,0.87,0.05,0.6,83.2,100000,0.0,18,0,No,0.0,10,20,150000,0
+721934,Germany,SKU-MET-042-Ger-Ind-107,Stainless Steel Coil,Metals,Tata,India,India,EXW,915.0,41.2,1.3,83.2,100,25.0,18,0,No,0.0,15,12,150000,0
+721934,Japan,SKU-MET-042-Jap-Ind-108,Stainless Steel Coil,Metals,Tata,India,India,EXW,790.0,43.2,1.3,83.2,100,0.0,18,0,No,0.0,15,12,150000,0
+721934,South Korea,SKU-MET-042-Sou-Ind-109,Stainless Steel Coil,Metals,Tata,India,India,EXW,1230.0,42.4,1.3,83.2,100,0.0,18,0,No,0.0,15,12,150000,0
+721934,USA,SKU-MET-042-USA-Ind-110,Stainless Steel Coil,Metals,Tata,India,India,EXW,1240.0,43.2,1.3,83.2,100,25.0,18,0,No,0.0,15,12,150000,0
+740811,Germany,SKU-MET-026-Ger-Ind-111,Copper Wire (1mm),Metals,Tata,India,India,EXW,8.2,0.62,0.5,83.2,5000,15.0,18,0,No,0.0,8,15,75000,0
+740811,Japan,SKU-MET-026-Jap-Ind-112,Copper Wire (1mm),Metals,Tata,India,India,EXW,7.68,0.56,0.5,83.2,5000,7.5,18,0,No,0.0,8,15,75000,0
+740811,South Korea,SKU-MET-026-Sou-Ind-113,Copper Wire (1mm),Metals,Tata,India,India,EXW,7.56,0.55,0.5,83.2,5000,5.0,18,0,No,0.0,8,15,75000,0
+740811,USA,SKU-MET-026-USA-Ind-114,Copper Wire (1mm),Metals,Tata,India,India,EXW,8.12,0.61,0.5,83.2,5000,10.0,18,0,No,0.0,8,15,75000,0
+760611,Germany,SKU-MET-034-Ger-Ind-115,Aluminum Sheet,Metals,Tata,India,India,EXW,1.62,0.17,0.8,83.2,10000,0.0,18,0,No,0.0,7,15,80000,0
+760611,Japan,SKU-MET-034-Jap-Ind-116,Aluminum Sheet,Metals,Tata,India,India,EXW,2.35,0.19,0.8,83.2,10000,10.0,18,0,No,0.0,7,15,80000,0
+760611,South Korea,SKU-MET-034-Sou-Ind-117,Aluminum Sheet,Metals,Tata,India,India,EXW,2.49,0.16,0.8,83.2,10000,5.0,18,0,No,0.0,7,15,80000,0
+760611,USA,SKU-MET-034-USA-Ind-118,Aluminum Sheet,Metals,Tata,India,India,EXW,2.33,0.18,0.8,83.2,10000,5.0,18,0,No,0.0,7,15,80000,0
+847160,Germany,SKU-TECH-035-Ger-Chi-119,Wireless Keyboard,Consumer Electronics,CATL,China,China,FOB,19.25,1.04,0.7,83.2,1500,20.0,18,0,Yes,11.14,15,25,75000,11250
+847160,India,SKU-TECH-035-Ind-Chi-121,Wireless Keyboard,Consumer Electronics,CATL,China,China,FOB,19.88,1.09,0.7,83.2,1500,20.0,18,0,Yes,14.3,15,25,75000,11250
+847160,Japan,SKU-TECH-035-Jap-Chi-123,Wireless Keyboard,Consumer Electronics,CATL,China,China,FOB,23.75,1.1,0.7,83.2,1500,5.0,18,0,Yes,3.2,15,25,75000,11250
+847160,South Korea,SKU-TECH-035-Sou-Chi-125,Wireless Keyboard,Consumer Electronics,CATL,China,China,FOB,27.12,1.07,0.7,83.2,1500,25.0,18,0,Yes,21.02,15,25,75000,11250
+847160,USA,SKU-TECH-035-USA-Chi-127,Wireless Keyboard,Consumer Electronics,CATL,China,China,FOB,24.62,1.17,0.7,83.2,1500,5.0,18,0,Yes,3.79,15,25,75000,11250
+847330,Germany,SKU-MEM-003-Ger-Mal-129,DDR4 16GB RAM,Computer Components,Petronas,Malaysia,Malaysia,FOB,53.1,1.89,0.8,83.2,2500,10.0,18,0,No,0.0,14,20,200000,0
+847330,Germany,SKU-MEM-003-Ger-Sou-130,DDR4 16GB RAM,Computer Components,Samsung,South Korea,South Korea,FOB,54.9,1.56,0.8,83.2,2500,10.0,18,0,No,0.0,14,20,200000,0
+847330,India,SKU-MEM-003-Ind-Mal-131,DDR4 16GB RAM,Computer Components,Petronas,Malaysia,Malaysia,FOB,44.33,1.75,0.8,83.2,2500,10.0,18,0,No,0.0,14,20,200000,0
+847330,India,SKU-MEM-003-Ind-Sou-132,DDR4 16GB RAM,Computer Components,Samsung,South Korea,South Korea,FOB,33.98,1.52,0.8,83.2,2500,15.0,18,0,No,0.0,14,20,200000,0
+847330,Japan,SKU-MEM-003-Jap-Mal-133,DDR4 16GB RAM,Computer Components,Petronas,Malaysia,Malaysia,FOB,52.88,1.88,0.8,83.2,2500,7.5,18,0,No,0.0,14,20,200000,0
+847330,Japan,SKU-MEM-003-Jap-Sou-134,DDR4 16GB RAM,Computer Components,Samsung,South Korea,South Korea,FOB,34.88,1.58,0.8,83.2,2500,10.0,18,0,No,0.0,14,20,200000,0
+847330,South Korea,SKU-MEM-003-Sou-Mal-135,DDR4 16GB RAM,Computer Components,Petronas,Malaysia,Malaysia,FOB,52.88,1.88,0.8,83.2,2500,5.0,18,0,No,0.0,14,20,200000,0
+847330,South Korea,SKU-MEM-003-Sou-Sou-136,DDR4 16GB RAM,Computer Components,Samsung,South Korea,South Korea,FOB,40.27,1.94,0.8,83.2,2500,5.0,18,0,No,0.0,14,20,200000,0
+847330,USA,SKU-MEM-003-USA-Mal-137,DDR4 16GB RAM,Computer Components,Petronas,Malaysia,Malaysia,FOB,50.17,1.69,0.8,83.2,2500,25.0,18,0,No,0.0,14,20,200000,0
+847330,USA,SKU-MEM-003-USA-Sou-138,DDR4 16GB RAM,Computer Components,Samsung,South Korea,South Korea,FOB,47.7,1.53,0.8,83.2,2500,15.0,18,0,No,0.0,14,20,200000,0
+847950,Germany,SKU-IND-004-Ger-Jap-139,Industrial Robot Arm,Automation,FANUC,Japan,Japan,CIF,20625.0,575.0,2.0,83.2,10,25.0,18,0,No,0.0,45,35,1200000,120000
+847950,India,SKU-IND-004-Ind-Jap-140,Industrial Robot Arm,Automation,FANUC,Japan,Japan,CIF,29500.0,630.0,2.0,83.2,10,7.5,18,0,No,0.0,45,35,1200000,120000
+847950,Japan,SKU-IND-004-Jap-Jap-141,Industrial Robot Arm,Automation,FANUC,Japan,Japan,CIF,27750.0,560.0,2.0,83.2,10,25.0,18,0,No,0.0,45,35,1200000,120000
+847950,South Korea,SKU-IND-004-Sou-Jap-142,Industrial Robot Arm,Automation,FANUC,Japan,Japan,CIF,23250.0,530.0,2.0,83.2,10,0.0,18,0,No,0.0,45,35,1200000,120000
+847950,USA,SKU-IND-004-USA-Jap-143,Industrial Robot Arm,Automation,FANUC,Japan,Japan,CIF,29625.0,635.0,2.0,83.2,10,7.5,18,0,No,0.0,45,35,1200000,120000
+850152,Germany,SKU-ELEC-030-Ger-Bra-144,Electric Motor,Electrical,Embraer,Brazil,Brazil,CPT,570.0,11.8,2.0,83.2,200,15.0,18,0,Yes,13.34,40,25,250000,18750
+850152,India,SKU-ELEC-030-Ind-Bra-145,Electric Motor,Electrical,Embraer,Brazil,Brazil,CPT,457.5,10.3,2.0,83.2,200,7.5,18,0,Yes,6.11,40,25,250000,18750
+850152,Japan,SKU-ELEC-030-Jap-Bra-146,Electric Motor,Electrical,Embraer,Brazil,Brazil,CPT,505.0,12.2,2.0,83.2,200,25.0,18,0,Yes,15.81,40,25,250000,18750
+850152,South Korea,SKU-ELEC-030-Sou-Bra-147,Electric Motor,Electrical,Embraer,Brazil,Brazil,CPT,380.0,10.2,2.0,83.2,200,0.0,18,0,No,0.0,40,25,250000,18750
+850152,USA,SKU-ELEC-030-USA-Bra-148,Electric Motor,Electrical,Embraer,Brazil,Brazil,CPT,500.0,12.0,2.0,83.2,200,20.0,18,0,Yes,10.31,40,25,250000,18750
+850422,Germany,SKU-ELEC-012-Ger-Ger-149,High Voltage Transformer,Electrical,Bosch,Germany,Germany,CIF,125250.0,2340.0,2.5,83.2,1,7.5,18,0,No,0.0,60,30,5000000,375000
+850422,India,SKU-ELEC-012-Ind-Ger-150,High Voltage Transformer,Electrical,Bosch,Germany,Germany,CIF,178500.0,2560.0,2.5,83.2,1,20.0,18,0,Yes,12.88,60,30,5000000,375000
+850422,Japan,SKU-ELEC-012-Jap-Ger-151,High Voltage Transformer,Electrical,Bosch,Germany,Germany,CIF,177000.0,2520.0,2.5,83.2,1,5.0,18,0,Yes,4.38,60,30,5000000,375000
+850422,South Korea,SKU-ELEC-012-Sou-Ger-152,High Voltage Transformer,Electrical,Bosch,Germany,Germany,CIF,126000.0,2360.0,2.5,83.2,1,5.0,18,0,Yes,3.95,60,30,5000000,375000
+850422,USA,SKU-ELEC-012-USA-Ger-153,High Voltage Transformer,Electrical,Bosch,Germany,Germany,CIF,136500.0,2040.0,2.5,83.2,1,0.0,18,0,No,0.0,60,30,5000000,375000
+850440,Germany,SKU-ELEC-039-Ger-Ger-154,Solar Inverter,Renewable Energy,Bosch,Germany,Germany,CIF,688.0,18.3,1.5,83.2,50,7.5,18,0,No,0.0,30,30,150000,11250
+850440,India,SKU-ELEC-039-Ind-Ger-155,Solar Inverter,Renewable Energy,Bosch,Germany,Germany,CIF,636.0,16.35,1.5,83.2,50,15.0,18,0,Yes,10.4,30,30,150000,11250
+850440,Japan,SKU-ELEC-039-Jap-Ger-156,Solar Inverter,Renewable Energy,Bosch,Germany,Germany,CIF,800.0,18.0,1.5,83.2,50,15.0,18,0,Yes,10.25,30,30,150000,11250
+850440,South Korea,SKU-ELEC-039-Sou-Ger-157,Solar Inverter,Renewable Energy,Bosch,Germany,Germany,CIF,696.0,18.6,1.5,83.2,50,15.0,18,0,Yes,7.98,30,30,150000,11250
+850440,USA,SKU-ELEC-039-USA-Ger-158,Solar Inverter,Renewable Energy,Bosch,Germany,Germany,CIF,700.0,18.75,1.5,83.2,50,25.0,18,0,Yes,16.69,30,30,150000,11250
+850760,Germany,SKU-LI-001-Ger-Chi-159,Lithium-ion Battery,EV Components,CATL,China,China,CIF,108.0,2.0,1.2,83.2,1000,7.5,18,10,No,0.0,18,25,500000,50000
+850760,India,SKU-LI-001-Ind-Chi-160,Lithium-ion Battery,EV Components,CATL,China,China,CIF,117.0,2.3,1.2,83.2,1000,0.0,18,10,No,0.0,18,25,500000,50000
+850760,Japan,SKU-LI-001-Jap-Chi-161,Lithium-ion Battery,EV Components,CATL,China,China,CIF,136.2,2.34,1.2,83.2,1000,15.0,18,10,No,0.0,18,25,500000,50000
+850760,South Korea,SKU-LI-001-Sou-Chi-162,Lithium-ion Battery,EV Components,CATL,China,China,CIF,121.2,2.44,1.2,83.2,1000,7.5,18,10,No,0.0,18,25,500000,50000
+850760,USA,SKU-LI-001-USA-Chi-163,Lithium-ion Battery,EV Components,CATL,China,China,CIF,125.4,2.58,1.2,83.2,1000,25.0,18,10,No,0.0,18,25,500000,50000
+851130,Germany,SKU-AUTO-008-Ger-Chi-164,Car Alternator,Automotive,CATL,China,China,CIF,77.25,3.78,1.0,83.2,1500,5.0,18,0,No,0.0,12,28,400000,60000
+851130,India,SKU-AUTO-008-Ind-Chi-165,Car Alternator,Automotive,CATL,China,China,CIF,87.75,3.72,1.0,83.2,1500,25.0,18,0,No,0.0,12,28,400000,60000
+851130,Japan,SKU-AUTO-008-Jap-Chi-166,Car Alternator,Automotive,CATL,China,China,CIF,79.88,3.09,1.0,83.2,1500,0.0,18,0,No,0.0,12,28,400000,60000
+851130,South Korea,SKU-AUTO-008-Sou-Chi-167,Car Alternator,Automotive,CATL,China,China,CIF,58.12,3.15,1.0,83.2,1500,20.0,18,0,No,0.0,12,28,400000,60000
+851130,USA,SKU-AUTO-008-USA-Chi-168,Car Alternator,Automotive,CATL,China,China,CIF,76.88,3.75,1.0,83.2,1500,10.0,18,0,No,0.0,12,28,400000,60000
+852990,Germany,SKU-TECH-017-Ger-Vie-169,Smartphone Display,Consumer Electronics,Vingroup,Vietnam,Vietnam,FOB,65.1,2.68,1.1,83.2,2000,7.5,18,0,No,0.0,18,20,450000,67500
+852990,India,SKU-TECH-017-Ind-Vie-170,Smartphone Display,Consumer Electronics,Vingroup,Vietnam,Vietnam,FOB,54.0,2.5,1.1,83.2,2000,5.0,18,0,No,0.0,18,20,450000,67500
+852990,Japan,SKU-TECH-017-Jap-Vie-171,Smartphone Display,Consumer Electronics,Vingroup,Vietnam,Vietnam,FOB,54.0,2.5,1.1,83.2,2000,15.0,18,0,No,0.0,18,20,450000,67500
+852990,South Korea,SKU-TECH-017-Sou-Vie-172,Smartphone Display,Consumer Electronics,Vingroup,Vietnam,Vietnam,FOB,54.9,2.58,1.1,83.2,2000,0.0,18,0,No,0.0,18,20,450000,67500
+852990,USA,SKU-TECH-017-USA-Vie-173,Smartphone Display,Consumer Electronics,Vingroup,Vietnam,Vietnam,FOB,69.9,3.08,1.1,83.2,2000,5.0,18,0,No,0.0,18,20,450000,67500
+853620,Germany,SKU-ELEC-022-Ger-Chi-174,Circuit Breaker,Electrical,CATL,China,China,FOB,32.9,1.3,0.9,83.2,500,20.0,18,0,Yes,16.42,20,25,150000,11250
+853620,India,SKU-ELEC-022-Ind-Chi-175,Circuit Breaker,Electrical,CATL,China,China,FOB,29.57,1.43,0.9,83.2,500,7.5,18,0,Yes,4.35,20,25,150000,11250
+853620,Japan,SKU-ELEC-022-Jap-Chi-176,Circuit Breaker,Electrical,CATL,China,China,FOB,33.6,1.34,0.9,83.2,500,0.0,18,0,No,0.0,20,25,150000,11250
+853620,South Korea,SKU-ELEC-022-Sou-Chi-177,Circuit Breaker,Electrical,CATL,China,China,FOB,39.55,1.39,0.9,83.2,500,25.0,18,0,Yes,13.61,20,25,150000,11250
+853620,USA,SKU-ELEC-022-USA-Chi-178,Circuit Breaker,Electrical,CATL,China,China,FOB,32.73,1.28,0.9,83.2,500,7.5,18,0,Yes,4.78,20,25,150000,11250
+853950,Germany,SKU-ELEC-046-Ger-Ind-179,LED Light Bulb,Electrical,Tata,India,India,EXW,1.53,0.1,0.5,83.2,20000,20.0,18,0,No,0.0,7,20,50000,5000
+853950,Japan,SKU-ELEC-046-Jap-Ind-180,LED Light Bulb,Electrical,Tata,India,India,EXW,1.61,0.11,0.5,83.2,20000,10.0,18,0,No,0.0,7,20,50000,5000
+853950,South Korea,SKU-ELEC-046-Sou-Ind-181,LED Light Bulb,Electrical,Tata,India,India,EXW,2.06,0.13,0.5,83.2,20000,15.0,18,0,No,0.0,7,20,50000,5000
+853950,USA,SKU-ELEC-046-USA-Ind-182,LED Light Bulb,Electrical,Tata,India,India,EXW,2.37,0.13,0.5,83.2,20000,5.0,18,0,No,0.0,7,20,50000,5000
+854140,Germany,SKU-SOL-002-Ger-Chi-183,Solar Panel (250W),Renewable Energy,CATL,China,China,DAP,134.25,6.45,1.0,83.2,800,0.0,18,5,No,0.0,25,30,450000,25000
+854140,India,SKU-SOL-002-Ind-Chi-184,Solar Panel (250W),Renewable Energy,CATL,China,China,DAP,169.5,5.8,1.0,83.2,800,20.0,18,5,Yes,14.68,25,30,450000,25000
+854140,Japan,SKU-SOL-002-Jap-Chi-185,Solar Panel (250W),Renewable Energy,CATL,China,China,DAP,158.25,5.05,1.0,83.2,800,20.0,18,5,Yes,15.09,25,30,450000,25000
+854140,South Korea,SKU-SOL-002-Sou-Chi-186,Solar Panel (250W),Renewable Energy,CATL,China,China,DAP,182.25,5.15,1.0,83.2,800,0.0,18,5,No,0.0,25,30,450000,25000
+854140,USA,SKU-SOL-002-USA-Chi-187,Solar Panel (250W),Renewable Energy,CATL,China,China,DAP,114.0,5.1,1.0,83.2,800,10.0,18,5,Yes,6.84,25,30,450000,25000
+870830,Germany,SKU-AUTO-037-Ger-Ita-188,Brake Pad Set,Automotive,Fiat,Italy,Italy,DAP,44.8,2.28,1.0,83.2,1200,15.0,18,0,No,0.0,18,20,100000,10000
+870830,India,SKU-AUTO-037-Ind-Ita-189,Brake Pad Set,Automotive,Fiat,Italy,Italy,DAP,44.6,2.26,1.0,83.2,1200,15.0,18,0,No,0.0,18,20,100000,10000
+870830,Japan,SKU-AUTO-037-Jap-Ita-190,Brake Pad Set,Automotive,Fiat,Italy,Italy,DAP,42.6,2.06,1.0,83.2,1200,7.5,18,0,No,0.0,18,20,100000,10000
+870830,South Korea,SKU-AUTO-037-Sou-Ita-191,Brake Pad Set,Automotive,Fiat,Italy,Italy,DAP,39.8,2.38,1.0,83.2,1200,0.0,18,0,No,0.0,18,20,100000,10000
+870830,USA,SKU-AUTO-037-USA-Ita-192,Brake Pad Set,Automotive,Fiat,Italy,Italy,DAP,34.6,2.46,1.0,83.2,1200,15.0,18,0,No,0.0,18,20,100000,10000
+870892,Germany,SKU-AUTO-045-Ger-USA-193,Catalytic Converter,Automotive,3M,USA,USA,DAP,180.0,10.0,2.0,83.2,300,20.0,18,0,No,0.0,25,28,150000,22500
+870892,India,SKU-AUTO-045-Ind-USA-194,Catalytic Converter,Automotive,3M,USA,USA,DAP,177.0,12.7,2.0,83.2,300,25.0,18,0,No,0.0,25,28,150000,22500
+870892,Japan,SKU-AUTO-045-Jap-USA-195,Catalytic Converter,Automotive,3M,USA,USA,DAP,191.0,11.1,2.0,83.2,300,5.0,18,0,No,0.0,25,28,150000,22500
+870892,South Korea,SKU-AUTO-045-Sou-USA-196,Catalytic Converter,Automotive,3M,USA,USA,DAP,175.0,12.5,2.0,83.2,300,20.0,18,0,No,0.0,25,28,150000,22500
+870892,USA,SKU-AUTO-045-USA-USA-197,Catalytic Converter,Automotive,3M,USA,USA,DAP,212.0,10.2,2.0,83.2,300,20.0,18,0,No,0.0,25,28,150000,22500
+901831,Germany,SKU-MED-019-Ger-USA-198,Syringe (10ml),Medical Supplies,3M,USA,USA,DAP,0.21,0.03,0.5,83.2,250000,7.5,18,0,No,0.0,15,30,50000,5000
+901831,India,SKU-MED-019-Ind-USA-199,Syringe (10ml),Medical Supplies,3M,USA,USA,DAP,0.16,0.02,0.5,83.2,250000,7.5,18,0,No,0.0,15,30,50000,5000
+901831,Japan,SKU-MED-019-Jap-USA-200,Syringe (10ml),Medical Supplies,3M,USA,USA,DAP,0.22,0.02,0.5,83.2,250000,7.5,18,0,No,0.0,15,30,50000,5000
+901831,South Korea,SKU-MED-019-Sou-USA-201,Syringe (10ml),Medical Supplies,3M,USA,USA,DAP,0.19,0.02,0.5,83.2,250000,7.5,18,0,No,0.0,15,30,50000,5000
+901831,USA,SKU-MED-019-USA-USA-202,Syringe (10ml),Medical Supplies,3M,USA,USA,DAP,0.23,0.02,0.5,83.2,250000,15.0,18,0,No,0.0,15,30,50000,5000
+901890,Germany,SKU-MED-028-Ger-Chi-203,Blood Pressure Monitor,Medical Devices,CATL,China,China,FOB,32.1,1.56,1.0,83.2,500,5.0,18,0,Yes,3.13,20,28,100000,7500
+901890,India,SKU-MED-028-Ind-Chi-204,Blood Pressure Monitor,Medical Devices,CATL,China,China,FOB,31.8,1.53,1.0,83.2,500,7.5,18,0,Yes,4.61,20,28,100000,7500
+901890,Japan,SKU-MED-028-Jap-Chi-205,Blood Pressure Monitor,Medical Devices,CATL,China,China,FOB,34.95,1.84,1.0,83.2,500,7.5,18,0,Yes,4.46,20,28,100000,7500
+901890,South Korea,SKU-MED-028-Sou-Chi-206,Blood Pressure Monitor,Medical Devices,CATL,China,China,FOB,36.0,1.5,1.0,83.2,500,7.5,18,0,Yes,6.27,20,28,100000,7500
+901890,USA,SKU-MED-028-USA-Chi-207,Blood Pressure Monitor,Medical Devices,CATL,China,China,FOB,24.6,1.71,1.0,83.2,500,7.5,18,0,Yes,6.05,20,28,100000,7500
+902519,Germany,SKU-MED-044-Ger-Chi-208,Digital Thermometer,Medical Devices,CATL,China,China,CIF,16.2,0.85,0.7,83.2,1000,0.0,18,0,No,0.0,18,25,40000,3000
+902519,India,SKU-MED-044-Ind-Chi-209,Digital Thermometer,Medical Devices,CATL,China,China,CIF,13.95,0.85,0.7,83.2,1000,15.0,18,0,No,0.0,18,25,40000,3000
+902519,Japan,SKU-MED-044-Jap-Chi-210,Digital Thermometer,Medical Devices,CATL,China,China,CIF,12.22,0.9,0.7,83.2,1000,15.0,18,0,No,0.0,18,25,40000,3000
+902519,South Korea,SKU-MED-044-Sou-Chi-211,Digital Thermometer,Medical Devices,CATL,China,China,CIF,18.0,0.8,0.7,83.2,1000,25.0,18,0,No,0.0,18,25,40000,3000
+902519,USA,SKU-MED-044-USA-Chi-212,Digital Thermometer,Medical Devices,CATL,China,China,CIF,16.5,0.88,0.7,83.2,1000,10.0,18,0,No,0.0,18,25,40000,3000
+940130,Germany,SKU-FURN-025-Ger-Chi-213,Office Chair,Furniture,CATL,China,China,CIF,156.0,10.24,1.8,83.2,300,0.0,18,0,No,0.0,35,30,90000,22500
+940130,India,SKU-FURN-025-Ind-Chi-214,Office Chair,Furniture,CATL,China,China,CIF,120.75,8.88,1.8,83.2,300,0.0,18,0,No,0.0,35,30,90000,22500
+940130,Japan,SKU-FURN-025-Jap-Chi-215,Office Chair,Furniture,CATL,China,China,CIF,144.75,9.04,1.8,83.2,300,10.0,18,0,Yes,8.83,35,30,90000,22500
+940130,South Korea,SKU-FURN-025-Sou-Chi-216,Office Chair,Furniture,CATL,China,China,CIF,114.75,8.24,1.8,83.2,300,10.0,18,0,Yes,5.26,35,30,90000,22500
+940130,USA,SKU-FURN-025-USA-Chi-217,Office Chair,Furniture,CATL,China,China,CIF,177.75,10.16,1.8,83.2,300,20.0,18,0,Yes,10.27,35,30,90000,22500
+940140,Germany,SKU-FURN-033-Ger-USA-218,Sofa Set (3-seater),Furniture,3M,USA,USA,DAP,426.0,30.9,2.5,83.2,100,0.0,18,0,No,0.0,50,28,150000,37500
+940140,India,SKU-FURN-033-Ind-USA-219,Sofa Set (3-seater),Furniture,3M,USA,USA,DAP,336.0,35.4,2.5,83.2,100,25.0,18,0,No,0.0,50,28,150000,37500
+940140,Japan,SKU-FURN-033-Jap-USA-220,Sofa Set (3-seater),Furniture,3M,USA,USA,DAP,322.0,33.3,2.5,83.2,100,20.0,18,0,No,0.0,50,28,150000,37500
+940140,South Korea,SKU-FURN-033-Sou-USA-221,Sofa Set (3-seater),Furniture,3M,USA,USA,DAP,456.0,35.4,2.5,83.2,100,10.0,18,0,No,0.0,50,28,150000,37500
+940140,USA,SKU-FURN-033-USA-USA-222,Sofa Set (3-seater),Furniture,3M,USA,USA,DAP,332.0,34.8,2.5,83.2,100,15.0,18,0,No,0.0,50,28,150000,37500
+940320,Germany,SKU-FURN-041-Ger-Chi-223,Bookcase,Furniture,CATL,China,China,DAP,99.2,5.4,1.2,83.2,400,5.0,18,0,Yes,4.0,25,22,80000,20000
+940320,India,SKU-FURN-041-Ind-Chi-224,Bookcase,Furniture,CATL,China,China,DAP,84.0,5.0,1.2,83.2,400,20.0,18,0,Yes,13.23,25,22,80000,20000
+940320,Japan,SKU-FURN-041-Jap-Chi-225,Bookcase,Furniture,CATL,China,China,DAP,65.2,5.65,1.2,83.2,400,25.0,18,0,Yes,13.68,25,22,80000,20000
+940320,South Korea,SKU-FURN-041-Sou-Chi-226,Bookcase,Furniture,CATL,China,China,DAP,91.6,5.95,1.2,83.2,400,5.0,18,0,Yes,3.64,25,22,80000,20000
+940320,USA,SKU-FURN-041-USA-Chi-227,Bookcase,Furniture,CATL,China,China,DAP,70.8,6.35,1.2,83.2,400,25.0,18,0,Yes,20.76,25,22,80000,20000
+940340,Germany,SKU-FURN-050-Ger-USA-228,Kitchen Cabinet Set,Furniture,3M,USA,USA,DAP,440.0,44.1,2.0,83.2,50,5.0,18,0,No,0.0,45,30,100000,25000
+940340,India,SKU-FURN-050-Ind-USA-229,Kitchen Cabinet Set,Furniture,3M,USA,USA,DAP,580.0,42.7,2.0,83.2,50,7.5,18,0,No,0.0,45,30,100000,25000
+940340,Japan,SKU-FURN-050-Jap-USA-230,Kitchen Cabinet Set,Furniture,3M,USA,USA,DAP,487.5,40.25,2.0,83.2,50,5.0,18,0,No,0.0,45,30,100000,25000
+940340,South Korea,SKU-FURN-050-Sou-USA-231,Kitchen Cabinet Set,Furniture,3M,USA,USA,DAP,545.0,37.8,2.0,83.2,50,20.0,18,0,No,0.0,45,30,100000,25000
+940340,USA,SKU-FURN-050-USA-USA-232,Kitchen Cabinet Set,Furniture,3M,USA,USA,DAP,472.5,38.15,2.0,83.2,50,5.0,18,0,No,0.0,45,30,100000,25000
+940360,Germany,SKU-FURN-014-Ger-Vie-233,Wooden Dining Table,Furniture,Vingroup,Vietnam,Vietnam,FOB,184.0,15.6,1.5,83.2,500,5.0,18,0,No,0.0,40,25,150000,37500
+940360,India,SKU-FURN-014-Ind-Vie-234,Wooden Dining Table,Furniture,Vingroup,Vietnam,Vietnam,FOB,160.0,16.5,1.5,83.2,500,15.0,18,0,No,0.0,40,25,150000,37500
+940360,Japan,SKU-FURN-014-Jap-Vie-235,Wooden Dining Table,Furniture,Vingroup,Vietnam,Vietnam,FOB,204.0,18.6,1.5,83.2,500,7.5,18,0,No,0.0,40,25,150000,37500
+940360,South Korea,SKU-FURN-014-Sou-Vie-236,Wooden Dining Table,Furniture,Vingroup,Vietnam,Vietnam,FOB,243.0,15.45,1.5,83.2,500,7.5,18,0,No,0.0,40,25,150000,37500
+940360,USA,SKU-FURN-014-USA-Vie-237,Wooden Dining Table,Furniture,Vingroup,Vietnam,Vietnam,FOB,204.0,18.6,1.5,83.2,500,5.0,18,0,No,0.0,40,25,150000,37500
