@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../backend')))
-import calculator
+import calculator 
 
 @st.cache_data
 def load_data():
