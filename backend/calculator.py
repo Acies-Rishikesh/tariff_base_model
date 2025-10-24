@@ -31,28 +31,29 @@ def filter_data(product, tariff, hs_code, importing_country, exporting_country):
 def run_landed_cost_calculation(product_row, tariff_row, volume_override=None, 
                                   new_freight=None, new_insurance=None, 
                                   new_base_price=None, new_target_margin=None,
+                                  new_fx=None, new_bcd=None, new_igst=None,
                                   pass_through_rate=100.0):
     """
     Calculate landed cost with all metrics including pass through rate
     pass_through_rate: 0-100, where 100 means all cost increase passed to customer, 
                        0 means all absorbed by company
     """
-    # Extract base values
-    base_price = float(product_row["base_price_usd"].iloc[0]) if new_base_price is None else new_base_price
-    freight = float(product_row["freight_usd"].iloc[0]) if new_freight is None else new_freight
-    ins_percent = float(product_row["insurance_percent"].iloc[0]) if new_insurance is None else new_insurance
-    fx_rate = float(product_row["fx_rate"].iloc[0])
-    bcd = float(product_row["bcd_percent"].iloc[0])
-    igst = float(product_row["igst_percent"].iloc[0])
+    # Extract base values - OVERRIDE if parameters provided
+    base_price = float(new_base_price) if new_base_price is not None else float(product_row["base_price_usd"].iloc[0])
+    freight = float(new_freight) if new_freight is not None else float(product_row["freight_usd"].iloc[0])
+    ins_percent = float(new_insurance) if new_insurance is not None else float(product_row["insurance_percent"].iloc[0])
+    fx_rate = float(new_fx) if new_fx is not None else float(product_row["fx_rate"].iloc[0])
+    bcd = float(new_bcd) if new_bcd is not None else float(product_row["bcd_percent"].iloc[0])
+    igst = float(new_igst) if new_igst is not None else float(product_row["igst_percent"].iloc[0])
     add_duty = float(product_row["additional_duty_percent"].iloc[0]) if "additional_duty_percent" in product_row.columns else 0
     fta_eligible = (product_row["fta_eligibility"].iloc[0] == "Yes")
     fta_reduction = float(product_row["fta_reduction_percent"].iloc[0]) if "fta_reduction_percent" in product_row.columns else 0
     volume = float(product_row["volume_units"].iloc[0]) if not volume_override else float(volume_override)
-    target_margin = float(product_row["target_margin_percent"].iloc[0]) if new_target_margin is None else new_target_margin
+    target_margin = float(new_target_margin) if new_target_margin is not None else float(product_row["target_margin_percent"].iloc[0])
     
-    # Static values for comparison
-    static_fx_rate = fx_rate
-    static_bcd = bcd
+    # Static values for comparison (from original product data, not overridden)
+    static_fx_rate = float(product_row["fx_rate"].iloc[0])
+    static_bcd = float(product_row["bcd_percent"].iloc[0])
     
     # Determine effective BCD
     if fta_eligible and pd.notna(tariff_row["fta_duty_rate_percent"].iloc[0]) and tariff_row["fta_duty_rate_percent"].iloc[0] > 0:
@@ -74,18 +75,23 @@ def run_landed_cost_calculation(product_row, tariff_row, volume_override=None,
     # Adjusted margin based on pass through rate
     adjusted_margin = target_margin * (pass_through_rate / 100)
     
-    # Target selling price based on ADJUSTED margin (not default margin)
+    # Target selling price based on ADJUSTED margin
     target_selling_price_inr = landed_cost_inr * (1 + adjusted_margin / 100)
     
     # Profit based on adjusted margin
     profit_inr = target_selling_price_inr - landed_cost_inr
     
-    # FX Impact per unit
+    # FX Impact per unit (USING OVERRIDDEN FX RATE IF PROVIDED)
     fx_impact_inr = (fx_rate - static_fx_rate) * base_price
     
     # Comparison metrics (for scenario planning)
-    logistics_impact_usd = freight
-    duty_impact_usd = (base_price * bcd_effective / 100) - (base_price * static_bcd / 100)
+    logistics_impact_usd = freight - float(product_row["freight_usd"].iloc[0]) if new_freight is not None else 0
+    
+    # Duty Impact: Compare the new BCD amount with static (original) BCD amount
+    static_bcd_amount = (base_price * static_bcd / 100)
+    new_bcd_amount = (base_price * bcd_effective / 100)
+    duty_impact_usd = new_bcd_amount - static_bcd_amount
+    
     total_duty_exposure_usd = bcd_amount * volume
     
     # FTA Savings
@@ -94,9 +100,9 @@ def run_landed_cost_calculation(product_row, tariff_row, volume_override=None,
     else:
         fta_savings_usd = -total_duty_exposure_usd
     
-    # Duty impact percentage
-    if static_bcd > 0:
-        duty_impact_percent = (duty_impact_usd / (base_price * static_bcd / 100)) * 100
+    # Duty impact percentage (percentage change in duty cost)
+    if static_bcd_amount > 0:
+        duty_impact_percent = ((new_bcd_amount - static_bcd_amount) / static_bcd_amount) * 100
     else:
         duty_impact_percent = 0
 

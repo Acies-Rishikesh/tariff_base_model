@@ -214,24 +214,23 @@ if True:
         pass_through_rate = st.slider("Pass Through Rate (%)", 0, 100, 70, key="ptr_sp")
 
         if submitted and len(filtered) and len(tariff_row):
-            # Current (baseline) calculation with pass through rate
+            # Current (baseline) calculation with default pass through rate
             current_results = calculator.run_landed_cost_calculation(
-                filtered.copy(), tariff_row, pass_through_rate=pass_through_rate
+                filtered.copy(), tariff_row, 
+                pass_through_rate=pass_through_rate
             )
             
-            # Scenario calculation with overrides
-            filtered_scenario = filtered.copy()
-            filtered_scenario["bcd_percent"] = new_bcd
-            filtered_scenario["igst_percent"] = new_igst
-            filtered_scenario["fx_rate"] = new_fx
-            
+            # Scenario calculation with ALL OVERRIDES
             updated_results = calculator.run_landed_cost_calculation(
-                filtered_scenario, tariff_row, 
+                filtered.copy(), tariff_row, 
                 volume_override=volume_override,
                 new_freight=new_freight,
                 new_insurance=new_insurance,
                 new_base_price=new_base_price,
                 new_target_margin=new_target_margin,
+                new_fx=new_fx,
+                new_bcd=new_bcd,
+                new_igst=new_igst,
                 pass_through_rate=pass_through_rate
             )
 
@@ -245,6 +244,7 @@ if True:
                     "Landed Cost (USD)",
                     "Freight Cost (USD)",
                     "Insurance Cost (USD)",
+                    "Base Price (USD)",
                     "BCD (%)",
                     "IGST (%)",
                     "BCD Amount (USD)",
@@ -253,6 +253,7 @@ if True:
                     "Total Duties & Taxes (USD)",
                     "Target Margin (%)",
                     "Adjusted Margin (%)",
+                    "FX Rate",
                     "FX Impact (per unit INR)",
                     "Logistics Impact (USD)",
                     "Duty Impact (USD)",
@@ -267,6 +268,7 @@ if True:
                     f"${current_results['landed_cost_usd']:,.2f}",
                     f"${current_results['freight_usd']:,.2f}",
                     f"${current_results['insurance_usd']:,.2f}",
+                    f"${current_results['base_price_usd']:,.2f}",
                     f"{current_results['bcd_percent']:.1f}",
                     f"{current_results['igst_percent']:.0f}",
                     f"${current_results['bcd_amount']:,.2f}",
@@ -275,6 +277,7 @@ if True:
                     f"${current_results['total_duties']:,.2f}",
                     f"{current_results['target_margin_percent']:.0f}",
                     f"{current_results['adjusted_margin_percent']:.1f}",
+                    f"{current_results['fx_rate']:.4f}",
                     f"₹{current_results['fx_impact_inr']:,.2f}",
                     f"${current_results['logistics_impact_usd']:,.2f}",
                     f"${current_results['duty_impact_usd']:,.2f}",
@@ -289,6 +292,7 @@ if True:
                     f"${updated_results['landed_cost_usd']:,.2f}",
                     f"${updated_results['freight_usd']:,.2f}",
                     f"${updated_results['insurance_usd']:,.2f}",
+                    f"${updated_results['base_price_usd']:,.2f}",
                     f"{updated_results['bcd_percent']:.1f}",
                     f"{updated_results['igst_percent']:.0f}",
                     f"${updated_results['bcd_amount']:,.2f}",
@@ -297,6 +301,7 @@ if True:
                     f"${updated_results['total_duties']:,.2f}",
                     f"{updated_results['target_margin_percent']:.0f}",
                     f"{updated_results['adjusted_margin_percent']:.1f}",
+                    f"{updated_results['fx_rate']:.4f}",
                     f"₹{updated_results['fx_impact_inr']:,.2f}",
                     f"${updated_results['logistics_impact_usd']:,.2f}",
                     f"${updated_results['duty_impact_usd']:,.2f}",
